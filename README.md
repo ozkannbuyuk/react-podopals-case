@@ -20,7 +20,7 @@
 ❓ About
 </h2>
 
-...
+This project allows listing products in descending order of price to ascending order and provides control by pinning products at specific positions.
 
 <h2>
 <br />
