@@ -58,6 +58,8 @@ i18n.use(initReactI18next).init({
         viewAll: "View All",
         latestTransaction: "Latest Transactions",
         logout: "Logout",
+        userName: "Username",
+        pass: "Password",
       },
     },
     tr: {
@@ -115,6 +117,8 @@ i18n.use(initReactI18next).init({
         viewAll: "Hepsini Gör",
         latestTransaction: "Son İşlemler",
         logout: "Çıkış Yap",
+        userName: "Kullanıcı Adı",
+        pass: "Şifre",
       },
     },
   },
